@@ -54,4 +54,8 @@ Dataset contains the files used for experiments:
 ## Database
 
 Daisy processing access directly a FrameNet database to get the wordforms, lexemes, lemmas, LUs and frames. 
-For sake of completion, a database dump is available in this repository. 
+For sake of completion, a database dump is available in this repository.
+
+## License
+
+GNU GPLv3 - See the [COPYING](COPYING) file for license rights and limitations.
